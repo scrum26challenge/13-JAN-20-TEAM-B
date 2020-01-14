@@ -1,5 +1,6 @@
 sign = input("What is your zodiac sign?: ")
 mood = input("How are you feeling today?: ")
+weather = input("What is the weather today?: ")
 if sign == 'aries':
     color_pallate = "Red"
 elif sign == 'taurus':
